@@ -21,9 +21,9 @@ I graduated from [Birla Institute of Technology and Science (BITS), Pilani](http
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/sargun_nagpal.webp' type='image/webp' />
+  <source srcset='/images/sargun-nagpal.webp' type='image/webp' />
   <img
-    src='/images/sargun_nagpal.jpg'
+    src='/images/sargun-nagpal.jpg'
     alt='Sargun Nagpal'>
 </picture>
 

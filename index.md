@@ -68,7 +68,7 @@ I graduated from [Birla Institute of Technology and Science (BITS), Pilani](http
   Show All Publications
 </a>
 
-<div class="news-travel" markdown="1">
+<!-- <div class="news-travel" markdown="1">
 
 <div class="news" markdown="1">
 ## Latest News
@@ -99,4 +99,4 @@ I graduated from [Birla Institute of Technology and Science (BITS), Pilani](http
 
 </div>
 
-</div>
+</div> -->

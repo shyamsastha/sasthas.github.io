@@ -4,34 +4,33 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Sargun!
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm faculty at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I am a Software Developer (Research) at [Mphasis Lab, Ashoka University](https://ashoka.edu.in/ML2CT), working with [Dr. Gautam Menon](https://ashoka.edu.in/faculty#!/gautam-i-menon-1526) and
+[Dr. Debayan Gupta](https://ashoka.edu.in/faculty#!/debayan-gupta-1157) on modelling social contact in cohort studies. I am also working as a research volunteer at [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/) under [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh) on exciting problems at the intersection of NLP and Genomics. 
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+Prior to joining Ashoka, I worked as a Software Engineer - Data Science at [Fidelity Center for Applied Technology (FCAT), Fidelity Investments](https://fcatalyst.com/overview) for two years. In this role I was involved in a diverse set of projects in NLP, Machine Learning and Software development, including Information Extraction from unstructured documents, Abstractive and Extractive text summarization, OCR and Image Processing, Email Fraud Surveillance system, Explainable AI, Recommender Systems and more.
 
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/
+) in 2019, with a Bachelors in Mechanical Engineering. I found myself being drawn to courses in Applied Statistics, which further led to my interest in Data Science.
+
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <source srcset='/images/sargun_nagpal.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'>
+    src='/images/sargun_nagpal.jpg'
+    alt='Sargun Nagpal'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2602B
 </div>
-
 </div>
-
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured Projects
 

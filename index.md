@@ -9,21 +9,19 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I am a Software Developer (Research) at [Mphasis Lab, Ashoka University](https://ashoka.edu.in/ML2CT), working with [Dr. Gautam Menon](https://ashoka.edu.in/faculty#!/gautam-i-menon-1526) and
-[Dr. Debayan Gupta](https://ashoka.edu.in/faculty#!/debayan-gupta-1157) on modelling social contact in cohort studies. I am also working as a research volunteer at [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/) under [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh) on exciting problems at the intersection of NLP and Genomics. 
+I am currently pursuing my Master's in Data Science at the [NYU Center for Data Science](https://cds.nyu.edu). I have 3+ years of experience building data and machine learning pipelines. My amalgam of professional and research experience in varied fields - finance, public health, cybersecurity, energy, and manufacturing has deeply ingrained in me a sense of applying data science across multiple disciplines.
 
-Prior to joining Ashoka, I worked as a Software Engineer - Data Science at [Fidelity Center for Applied Technology (FCAT), Fidelity Investments](https://fcatalyst.com/overview) for two years. In this role I was involved in a diverse set of projects in NLP, Machine Learning and Software development, including Information Extraction from unstructured documents, Abstractive and Extractive text summarization, OCR and Image Processing, Email Fraud Surveillance system, Explainable AI, Recommender Systems and more.
+In the past, I worked as a Software Engineer - Data Science for 2 years at [Fidelity Investments](https://fcatalyst.com/overview), where I contributed to projects in NLP, Machine Learning and Software development, including Information Extraction, Abstractive and Extractive text summarization, OCR and Image Processing, Email Fraud Surveillance, Explainable AI and more.
 
-I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/
-) in 2019, with a Bachelors in Mechanical Engineering. I found myself being drawn to courses in Applied Statistics, which further led to my interest in Data Science.
+I also have over 1 year of research experience in the area of ML for social good. As a Research Scientist at [Mphasis Lab, Ashoka University](https://ashoka.edu.in/ML2CT), I worked on the statistical modelling of contact mixing patterns to devise interventions to limit the spread of infectious diseases. At [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/), I used Machine Learning to build predictive models for COVID-19 caseload predicion and surveillance of emerging variants.
 
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/sargun-nagpal.webp' type='image/webp' />
+  <source srcset='/images/sargun-nagpal.jpeg' type='image/jpeg' />
   <img
-    src='/images/sargun-nagpal.jpg'
+    src='/images/sargun-nagpal.jpeg'
     alt='Sargun Nagpal'>
 </picture>
 

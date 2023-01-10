@@ -1,29 +1,41 @@
+- title: The Data Science job market
+  code: https://github.com/sharad5/Kaggle-Data-Science-ML-Survey-Analysis
+  paper: /papers/2022-NYU_1001.pdf
+  image: stonks.jpg
+  description: "Statistical analysis of job data (Hypothesis Testing), Salary Prediction (Regression), Job Title Prediction (Classification)."
+  highlight: 1
+
 - title: Strainflow
   code: https://github.com/rintukutum/strainflow_manuscript
   demo: http://strainflow.tavlab.iiitd.edu.in/#/
   paper: /papers/2021-strainflow.pdf
   image: strainflow.jpg
   description: "Novel method to predict COVID-19 cases in different countries using the entropy of the latent space of SARS-CoV-2 genome sequences."
-  highlight: 1
+  highlight: 2
+
+- title: Social Mixing
+  paper: /papers/2022-contactmix.pdf
+  image: contactmix.png
+  description: "Statistical Analysis of contact mixing patterns to devise interventions to curb the spread of infectious diseases."
+  highlight: 4
+
+
+- title: Response Writer
+  image: ri.jpg
+  description: "CV and NLP based pipeline to extract regulatory inquiries in image based PDFs and generate automated responses. Reduced the manual workload of typing over 1200 responses each month."
+  highlight: 3
 
 
 - title: Twittercovid
   paper: /papers/2021-twittercovid.pdf
   image: twittercovid.PNG
   description: "Studied the relationship between Tweets and covid cases in India, analyzed the significant themes associated with the latent dimensions."
-  highlight: 2
 
 
 - title: BEC surveillance
   image: bec.jpg
   description: "Python service to scan the text content and metadata of emails to identify Business Email Compromise (BEC). We identified a 90 year old customer who had been compromised for over a year."
-  highlight: 3
 
-
-- title: Response Writer
-  image: ri.jpg
-  description: "CV and NLP based pipeline to extract regulatory inquiries in image based PDFs and generate automated responses. Reduced the manual workload of typing over 1200 responses each month."
-  highlight: 4
 
 
 

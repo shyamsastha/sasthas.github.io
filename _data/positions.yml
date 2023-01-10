@@ -1,34 +1,34 @@
-- title: Software Developer (Research)
-  years: Aug 2021 - Present
-  company: Mphasis Lab, Ashoka University
-  mentors: 
-    - Dr. Gautam Menon
-    - Dr. Debayan Gupta
-  location: Sonipat, India
-  description: Modelling social contact in cohort studies, synthetic population generation and agent based simulation.
-  
-- title: Research Trainee
-  years: Mar 2021 - Present
-  company: TavLab, Indraprashta Institute of Information Technology (IIIT) Delhi
-  mentors: 
-    - Dr. Tavpritesh Sethi
-  location: Delhi, India
-  description: Genomic surveillance of COVID-19 variants with Language Models and Machine Learning.
-  
 - title: Software Engineer - Data Science
   years: Jun 2019 - Jul 2021
   company: Fidelity Investments
   location: Bangalore, India
-  description: Information extraction from scanned documents, email fraud surveillance, text generation and summarization.
+  description: Information extraction from unstructured documents, email fraud surveillance, text generation and summarization.
+
+- title: Research Scientist
+  years: Aug 2021 - Jul 2022
+  company: ML2CT Lab, Ashoka University
+  mentors: 
+    - Dr. Gautam Menon
+    - Dr. Debayan Gupta
+  location: Sonipat, India
+  description: Statistical modelling of social contacts in cohort studies, synthetic population generation and agent based simulations.
   
+- title: Research Trainee
+  years: Mar 2021 - Jul 2022
+  company: TavLab, IIIT Delhi
+  mentors: 
+    - Dr. Tavpritesh Sethi
+  location: Delhi, India
+  description: Genomic surveillance of COVID-19 variants with Language Models and Machine Learning.
+    
 - title: Data Science Intern
   years: Jul 2018 - Dec 2018
   company: Fidelity Investments
   location: Bangalore, India
   description: Cryptocurrency price prediction using stacked LSTM networks, time series modeling of Bitcoin prices.
   
-- title: Intern
+- title: Summer Intern
   years: May 2017 - Jul 2017
   company: Hindustan Petroleum Corporation Ltd.
   location: Bahadurgarh, India
-  description: Developed a computational pipeline in Python to monitor and prevent pilferage and oil fraud.
+  description: Computational data pipeline to monitor and prevent oil pilferage and fraud.

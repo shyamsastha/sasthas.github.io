@@ -13,10 +13,10 @@ class: pubs
     <strong>Venue</strong>
     <ul></ul>
   </div>
-  <div class="facet" id="authors">
+  <!-- <div class="facet" id="authors">
     <strong>Author</strong>
     <ul></ul>
-  </div>
+  </div> -->
   <div class="facet" id="tags">
     <strong>Tag</strong>
     <ul></ul>

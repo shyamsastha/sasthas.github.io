@@ -1,3 +1,18 @@
+- title: Causal Counterfactual Forecasting
+  code: https://github.com/sargun-nagpal/Causal-Counterfactual-Forecasting-ACIC2023
+  paper: /papers/2023-causal_inference.pdf
+  image: crn.jpg
+  description: "Causal Inference x Machine Learning for forecasting counterfactual outcomes to answer what-if questions."
+  highlight: 2
+
+
+- title: Recommender System (Big Data)
+  paper: /papers/2023-big_data.pdf
+  image: recsys.png
+  description: "Collaborative Filtering Recommender System in PySpark on a dataset with >179M user interactions."
+  highlight: 3
+
+
 - title: The Data Science job market
   code: https://github.com/sharad5/Kaggle-Data-Science-ML-Survey-Analysis
   paper: /papers/2022-NYU_1001.pdf
@@ -5,25 +20,23 @@
   description: "Statistical analysis of job data (Hypothesis Testing), Salary Prediction (Regression), Job Title Prediction (Classification)."
   highlight: 1
 
-- title: Strainflow
+
+- title: StrainFlow
   code: https://github.com/rintukutum/strainflow_manuscript
-  demo: http://strainflow.tavlab.iiitd.edu.in/#/
   paper: /papers/2021-strainflow.pdf
   image: strainflow.jpg
-  description: "Novel method to predict COVID-19 cases in different countries using the entropy of the latent space of SARS-CoV-2 genome sequences."
-  highlight: 2
+  description: "Novel method of using Language Models and Machine Learning to predict COVID-19 cases and emerging variants."
+  highlight: 4
 
 - title: Social Mixing
   paper: /papers/2022-contactmix.pdf
   image: contactmix.png
   description: "Statistical Analysis of contact mixing patterns to devise interventions to curb the spread of infectious diseases."
-  highlight: 4
 
 
 - title: Response Writer
   image: ri.jpg
   description: "CV and NLP based pipeline to extract regulatory inquiries in image based PDFs and generate automated responses. Reduced the manual workload of typing over 1200 responses each month."
-  highlight: 3
 
 
 - title: Twittercovid

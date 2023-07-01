@@ -9,11 +9,13 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I am currently pursuing my **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu). I have **3+ years** of experience building data and machine learning pipelines. My amalgam of professional and research experience in varied fields - finance, public health, cybersecurity, energy, and manufacturing has deeply ingrained in me a sense of applying data science across multiple disciplines.
+I am currently pursuing my **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), graduating in May 2024. I have **3+ years** of experience in Data Science, specializing in building **Machine Learning and Natural Language Processing** products.
 
-In the past, I worked as a **Software Engineer - Data Science** for 2 years at [Fidelity Investments](https://fcatalyst.com/overview), where I contributed to projects in **NLP, Machine Learning and Software development**, including Information Extraction, Abstractive and Extractive text summarization, OCR and Image Processing, Email Fraud Surveillance, Explainable AI and more.
+In the summer, I interned at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY) as a Data Science Intern, working on peer grouping of insurance clients based on their claims data, leveraging LLMs, Clustering, and Hypothesis Testing.
 
-I also have over 1 year of research experience in the area of **ML for social good**. As a **Research Scientist** at [ML2CT Lab, Ashoka University](https://ashoka.edu.in/ML2CT), I worked on the statistical modelling of contact mixing patterns to devise interventions to limit the spread of infectious diseases. At [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/), I used Machine Learning to build predictive models for COVID-19 caseload predicion and surveillance of emerging variants.
+Prior to my Master's, I worked as a **Data Scientist** for 2 years at [Fidelity Investments](https://fcatalyst.com/overview), developing solutions for Document Information Extraction, Text Summarization, Email Fraud Detection, Explainable AI and more.
+
+In addition, I have 1 year of experience conducting research in the area of **ML for social good**. As a **Research Scientist** at [ML2CT Lab, Ashoka](https://ashoka.edu.in/ML2CT), I worked on the statistical modelling of contact mixing patterns to devise interventions to limit the spread of infectious diseases. At [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/), I used ML to build predictive models for COVID-19 caseload predicion and surveillance of emerging variants.
 
 </div>
 

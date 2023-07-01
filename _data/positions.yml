@@ -1,3 +1,9 @@
+- title: Data Science Graduate Intern
+  years: Jun 2023 - Aug 2023
+  company: Marsh McLennan
+  location: New York, NY
+  description: Peer-grouping of insurance clients based on claims data (LLMs, Clustering, Dimensionality Reduction, Hypothesis Testing).
+
 - title: Software Engineer - Data Science
   years: Jun 2019 - Jul 2021
   company: Fidelity Investments
@@ -30,5 +36,5 @@
 - title: Summer Intern
   years: May 2017 - Jul 2017
   company: Hindustan Petroleum Corporation Ltd.
-  location: Bahadurgarh, India
+  location: Delhi, India
   description: Computational data pipeline to monitor and prevent oil pilferage and fraud.

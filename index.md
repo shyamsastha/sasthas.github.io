@@ -9,6 +9,15 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
+Pursuing a **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), I bring 3+ years of hands-on experience specializing in **Machine Learning and NLP**. As a Data Science Intern at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY), I led the development of an impactful industry benchmarking pipeline, leveraging LLMs, Clustering, and Hypothesis Testing, thus showcasing my ability to translate raw data into actionable insights for insurance brokers.
+
+Preceding my Master’s, I spent 2 years as a **Data Scientist** at [Fidelity Investments](https://fcatalyst.com/overview), pioneering data products that saved time and money for financial advisors and analysts. My contributions spanned Document Information Extraction, Text Summarization, and Email Fraud Detection.
+
+I love working on data for social good projects and as a **Research Scientist**, I published research papers on Statistics and ML for COVID-19 caseload prediction and devising interventions to mitigate infection outbreaks.
+
+</div>
+
+<!-- <div class="intro" markdown="1">
 I am currently pursuing my **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), graduating in May 2024. I have **3+ years** of experience in Data Science, specializing in building **Machine Learning and Natural Language Processing** products.
 
 In the summer, I interned at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY) as a Data Science Intern, working on peer grouping of insurance clients based on their claims data, leveraging LLMs, Clustering, and Hypothesis Testing.
@@ -17,7 +26,7 @@ Prior to my Master's, I worked as a **Data Scientist** for 2 years at [Fidelity 
 
 In addition, I have 1 year of experience conducting research in the area of **ML for social good**. As a **Research Scientist** at [ML2CT Lab, Ashoka](https://ashoka.edu.in/ML2CT), I worked on the statistical modelling of contact mixing patterns to devise interventions to limit the spread of infectious diseases. At [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/), I used ML to build predictive models for COVID-19 caseload predicion and surveillance of emerging variants.
 
-</div>
+</div> -->
 
 <div class="me" markdown="1">
 <picture>

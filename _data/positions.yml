@@ -17,7 +17,7 @@
     - Dr. Gautam Menon
     - Dr. Debayan Gupta
   location: Sonipat, India
-  description: Statistical modelling of social contacts in cohort studies, synthetic population generation and agent based simulations.
+  description: Statistical modeling of social contacts in cohort studies, synthetic population generation and agent based simulations.
   
 - title: Research Trainee
   years: Mar 2021 - Jul 2022
@@ -25,7 +25,7 @@
   mentors: 
     - Dr. Tavpritesh Sethi
   location: Delhi, India
-  description: Genomic surveillance of COVID-19 variants with Language Models and Machine Learning.
+  description: NLP for misinformation detection, Language Models and Machine Learning for covid-19 case prediction.
     
 - title: Data Science Intern
   years: Jul 2018 - Dec 2018
@@ -37,4 +37,4 @@
   years: May 2017 - Jul 2017
   company: Hindustan Petroleum Corporation Ltd.
   location: Delhi, India
-  description: Computational data pipeline to monitor and prevent oil pilferage and fraud.
+  description: Computational data pipelines to monitor and prevent oil pilferage and fraud.

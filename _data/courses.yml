@@ -1,5 +1,7 @@
 - title: NYU Center for Data Science
   courses:
+    - title: Natural Language Processing
+    - title: Deep Learning
     - title: Machine Learning
     - title: Big Data
     - title: Causal Inference

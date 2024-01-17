@@ -4,8 +4,8 @@ email: shyamas@iiitd.ac.in
 description: > # this means to ignore newlines until "baseurl:"
    Graduate researcher at IIIT-Delhi. Interested in leveraging HCAI/AL/ML tools and technologies for affective computing, especially in the domains of accessibility, sustainability, and IoT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sasthas.github.io" # the base hostname & protocol for your site
-production_url: "https://www.sargun-nagpal.github.io"
+url: "https://www.shyamsastha.github.io" # the base hostname & protocol for your site
+production_url: "https://www.shyamsastha.github.io"
 github_username: shyamasastha
 permalink: /blog/:year/:month/:title.html
 

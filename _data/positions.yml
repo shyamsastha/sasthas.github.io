@@ -1,40 +1,29 @@
-- title: Data Science Graduate Intern
-  years: Jun 2023 - Aug 2023
-  company: Marsh McLennan
-  location: New York, NY
-  description: Peer-grouping of insurance clients based on claims data (LLMs, Clustering, Dimensionality Reduction, Hypothesis Testing).
+- title: Graduate Researcher
+  years: Dec 2021 - Present
+  company: IIIT Delhi
+  mentors:
+    - Prof. Pushpendra Singh, Professor, CSE, IIIT Delhi
+    - Prof. Mohan Kumar, Professor, CSE, RIT, NY
+  location: New Delhi, Delhi, India
+  description: Pursuing a Ph.D. in Computer science in the domain of HCI and affective computing.
 
-- title: Software Engineer - Data Science
-  years: Jun 2019 - Jul 2021
-  company: Fidelity Investments
-  location: Bangalore, India
-  description: Information extraction from unstructured documents, email fraud surveillance, text generation and summarization.
+- title: Programmer Analyst
+  years: Dec 2019 - Dec 2021
+  company: Saras Inc.
+  location: California, US
+  description: Development, deployment, and maintenance of cloud resources and design and development of analytics dashboards for clients from various domains.
 
-- title: Research Scientist
-  years: Aug 2021 - Jul 2022
-  company: ML2CT Lab, Ashoka University
+- title: Product Security Engineer Co-op
+  years: Jan 2019 - Jun 2019
+  company: Bose Corporation
   mentors: 
-    - Dr. Gautam Menon
-    - Dr. Debayan Gupta
-  location: Sonipat, India
-  description: Statistical modeling of social contacts in cohort studies, synthetic population generation and agent based simulations.
+    - Aldo Cassola
+    - Jason Furgal
+  location: Boston, MA
+  description: Development of a testing suite for embedded and network software security for smart sound systems.
   
-- title: Research Trainee
-  years: Mar 2021 - Jul 2022
-  company: TavLab, IIIT Delhi
-  mentors: 
-    - Dr. Tavpritesh Sethi
-  location: Delhi, India
-  description: NLP for misinformation detection, Language Models and Machine Learning for covid-19 case prediction.
-    
-- title: Data Science Intern
-  years: Jul 2018 - Dec 2018
-  company: Fidelity Investments
+- title: Academic Author
+  years: Apr 2016 - Jul 2017
+  company: Ansrsource India Pvt. Ltd.
   location: Bangalore, India
-  description: Cryptocurrency price prediction using stacked LSTM networks, time series modeling of Bitcoin prices.
-  
-- title: Summer Intern
-  years: May 2017 - Jul 2017
-  company: Hindustan Petroleum Corporation Ltd.
-  location: Delhi, India
-  description: Computational data pipelines to monitor and prevent oil pilferage and fraud.
+  description: Design, Development, and deployment of education content across various modalities, from middle school to advanced education levels, with clients across various institutions around the world.

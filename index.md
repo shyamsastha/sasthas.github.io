@@ -4,36 +4,27 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Sargun!
+# Hi, I'm Sastha Srinivas!
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-Pursuing a **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), I bring 3+ years of hands-on experience specializing in **Machine Learning and NLP**. As a Data Science Intern at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY), I led the development of an impactful industry benchmarking pipeline, leveraging LLMs, Clustering, and Hypothesis Testing, thus showcasing my ability to translate raw data into actionable insights for insurance brokers.
+As a graduate researcher, pursuing a **Ph.D. in Computer Science** at the [IIIT-Delhi](https://iiitd.ac.in/), I bring 3+ years of hands-on experience specializing in **AI/ML and IoT**. As a researcher, my focus has been on leveraging existing technologies and upcoming ML/AI technologies and tools to augment the lives and wellbeing of the aging population. 
 
-Preceding my Master’s, I spent 2 years as a **Data Scientist** at [Fidelity Investments](https://fcatalyst.com/overview), pioneering data products that saved time and money for financial advisors and analysts. My contributions spanned Document Information Extraction, Text Summarization, and Email Fraud Detection.
+Prior to this, I spent two years as a **Programmer Analyst** at Sara's Inc. and Unanu, spearheading cloud products and analytics dashboards that saved time and money for clients from various domains. My involvement was not limited but included cloud API deployment, testing, and maintenance, analytics dashboard design, and deployment, & working on producing ML/AI pipelines for production environments.
 
-I love working on data for social good projects and as a **Research Scientist**, I published research papers on Statistics and ML for COVID-19 caseload prediction and devising interventions to mitigate infection outbreaks.
+Preceeding that, I was pursuing a **Master's degree in Computer Systems Engineering with a specialization in IoT** at the **College of Engineering** at [Northeastern University](https://catalog.northeastern.edu/graduate/engineering/multidisciplinary/cyber-physical-systems-ms/) (currently renamed as the **Master of Science in Cyber-Physical Systems with a concentration in the Internet of Things (IoT)**), under the guidance of [Prof.Peter O'Reilly](https://coe.northeastern.edu/people/oreilly-peter/). During my time at Northeastern, I was also the treassuer of the IoTConnect graduate club involved in the design and development of IoT systems and applications.
+
+My work and passion involve utilizing concepts from multi-disciplinary fields to leverage upcoming technology for affective computing. My side projects include advancements in computer science education, including but not limited to improving teaching methods, analyzing the impact of AI on education, and more.
 
 </div>
 
-<!-- <div class="intro" markdown="1">
-I am currently pursuing my **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), graduating in May 2024. I have **3+ years** of experience in Data Science, specializing in building **Machine Learning and Natural Language Processing** products.
-
-In the summer, I interned at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY) as a Data Science Intern, working on peer grouping of insurance clients based on their claims data, leveraging LLMs, Clustering, and Hypothesis Testing.
-
-Prior to my Master's, I worked as a **Data Scientist** for 2 years at [Fidelity Investments](https://fcatalyst.com/overview), developing solutions for Document Information Extraction, Text Summarization, Email Fraud Detection, Explainable AI and more.
-
-In addition, I have 1 year of experience conducting research in the area of **ML for social good**. As a **Research Scientist** at [ML2CT Lab, Ashoka](https://ashoka.edu.in/ML2CT), I worked on the statistical modelling of contact mixing patterns to devise interventions to limit the spread of infectious diseases. At [TavLab, IIIT-Delhi](http://tavlab.iiitd.edu.in/), I used ML to build predictive models for COVID-19 caseload predicion and surveillance of emerging variants.
-
-</div> -->
-
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/sargun-nagpal.jpeg' type='image/jpeg' />
+  <source srcset='/images/DSC_0039.jpg' type='image/jpeg' />
   <img
-    src='/images/sargun-nagpal.jpeg'
-    alt='Sargun Nagpal'>
+    src='/images/DSC_0039.jpg'
+    alt='Sastha Srinivasan'>
 </picture>
 
 {:.no-list}
@@ -77,7 +68,7 @@ In addition, I have 1 year of experience conducting research in the area of **ML
   Show All Publications
 </a>
 
-<!-- <div class="news-travel" markdown="1">
+<div class="news-travel" markdown="1">
 
 <div class="news" markdown="1">
 ## Latest News

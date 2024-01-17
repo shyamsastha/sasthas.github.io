@@ -1,16 +1,16 @@
 # Site settings
-title: Sargun Nagpal
-email: sargun.nagpal@nyu.edu
+title: Shyama Sastha Krishnamoorthy Srinivasan
+email: shyamas@iiitd.ac.in
 description: > # this means to ignore newlines until "baseurl:"
-   Master's student in Data Science at NYU. Interested in Machine Learning, Natural Language Processing, and Statistics. Bachelor's from BITS Pilani.
+   Graduate researcher at IIIT-Delhi. Interested in leveraging HCAI/AL/ML tools and technologies for affective computing, especially in the domains of accessibility, sustainability, and IoT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sargun-nagpal.github.io" # the base hostname & protocol for your site
+url: "https://www.sasthas.github.io" # the base hostname & protocol for your site
 production_url: "https://www.sargun-nagpal.github.io"
-github_username: sargun-nagpal
+github_username: shyamasastha
 permalink: /blog/:year/:month/:title.html
 
 twitter:
-  username: sargun_nagpal
+  username: SasthaShyama
 
 sass:
   style: compressed

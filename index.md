@@ -21,9 +21,9 @@ My work and passion involve utilizing concepts from multi-disciplinary fields to
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/DSC_0039.jpg' type='image/jpeg' />
+  <source srcset='/images/DSC_0039_cropped.jpg' type='image/jpeg' />
   <img
-    src='/images/DSC_0039.jpg'
+    src='/images/DSC_0039_cropped.jpg'
     alt='Sastha Srinivasan'>
 </picture>
 

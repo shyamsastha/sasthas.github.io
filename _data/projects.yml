@@ -1,28 +1,32 @@
 - title: Diabetic Retinopathy Detection at the Edge - Python, PyTorch, TensorFlow
   code: https://github.com/shyamsastha/CSE641-DL/tree/main/Project
+  image: dr_cover.jpeg
   description: "Tested the hypothesis of making a compressed model to detect diabetic retinopathy without compromising on evaluation metrics on various memory-efficient deep learning models and performed a comparative evaluation. The codes for the evaluated models are available here."
   highlight: 1
 
 - title: Herbarium Image classification - Python, PyTorch, TensorFlow
   code: https://github.com/shyamsastha/ECE563-ML/tree/main/Project
+  image: herb_cover.jpeg
   description: "Trained various DL classification models for the Herbarium2022 Dataset having 15004 classes. To improve the model’s performance, trained the classes to classify based on coarser labels using different hierarchy levels. The codes for the evaluated models are available here."
   highlight: 2
 
 - title: Timber and ZombieArena - C++, SFML
   code: https://github.com/shyamsastha/Timber
-  code: https://github.com/shyamsastha/ZombieArena
+  paper: https://github.com/shyamsastha/ZombieArena
+  image: tz_cover.png
   description: "Developed a couple of games to test the understanding of SFML framework and C++ using various concepts like sprite background changes, registering keystrokes, refreshing spawns, registering mouse clicks, and incorporating randomness to coordinates hit. The code for Timber and Zombie Arena is available in Timber, and Zombie Arena respectively."
   highlight: 5
 
 - title: Air Quality Monitoring and Control, IoT system - Python, Ubidots, Raspberry Pi 3B+
   code: https://github.com/shyamsastha/Air-quality-monitoring-and-control-system
+  image: aqm_cover.jpg
   description: "Designed and developed an air quality monitoring system with the raspberry pi and senseHAT as a system model to explain different levels of an Embedded IoT framework. Improved privacy and efficiency of the framework by using OTA alerts and remote-control options. The code and instructions are available here."
   highlight: 3
 
 - title:  Performance Evaluation on Nvidia Jetson Xavier - Python/ C++
-  code: https://github.com/shyamsastha/Mask_RCNN
   code: https://github.com/shyamsastha/Realtime-object-detection
-  code: https://github.com/shyamsastha/jetson-inference
+  paper: https://github.com/shyamsastha/jetson-inference
+  image: jt_cover.jpg
   description: "Evaluated differences in the performance of Deep Neural Networks on different processing modules available on Nvidia Tegra Jetson Xavier System on Module (SoM) using Mask R-CNN, Faster R-CNN, and TensorRT models. Delivered a report on profile-specific competencies for different processing units present in the SoM for an image classification/detection algorithm. The repositories used for evaluation can be found in the following links: Mask-RCNN, Realtime-object-detection, and Jetson-inference"
   highlight: 4
 

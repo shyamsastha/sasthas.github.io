@@ -31,5 +31,6 @@
   highlight: 4
 
 - title: Effect of Music Tempo on Heart Rate - Predictive modeling using Sphygmomanometer
+  image: pm_cover.jpeg
   description: "Designed and evaluated a correlation experiment to quantify the effect of music tempo on heart rate during exercise. Derived a regression curve for the effect of music tempo on heart rate by clustering data from various people."
   highlight: 6

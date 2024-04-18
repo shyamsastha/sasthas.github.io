@@ -63,10 +63,10 @@ My work and passion involve utilizing concepts from multi-disciplinary fields fo
   {% endfor %}
 </div>
 
-<!--a href="{{ "/publications/" | relative_url }}" class="button">
+<a href="{{ "/publications/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show All Publications
-</a-->
+</a>
 
 <div class="news-travel" markdown="1">
 
